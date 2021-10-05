@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/robin/Kode/sikkerhet/ov5/ov5_sikkerhet/build",
+  "command": "/usr/bin/clang  -I/home/robin/Kode/sikkerhet/ov5/ov5_sikkerhet  -std=c11 -Wall -Wextra -o CMakeFiles/main.dir/main.c.o -c /home/robin/Kode/sikkerhet/ov5/ov5_sikkerhet/main.c",
+  "file": "/home/robin/Kode/sikkerhet/ov5/ov5_sikkerhet/main.c"
+},
+{
+  "directory": "/home/robin/Kode/sikkerhet/ov5/ov5_sikkerhet/build/tests",
+  "command": "/usr/bin/clang  -I/home/robin/Kode/sikkerhet/ov5/ov5_sikkerhet  -std=c11 -Wall -Wextra -fsanitize=address,fuzzer -o CMakeFiles/utility_fuzzer_test.dir/utility_fuzzer_test.c.o -c /home/robin/Kode/sikkerhet/ov5/ov5_sikkerhet/tests/utility_fuzzer_test.c",
+  "file": "/home/robin/Kode/sikkerhet/ov5/ov5_sikkerhet/tests/utility_fuzzer_test.c"
+}
+]

@@ -1,0 +1,1 @@
+/usr/bin/clang  -std=c11 -Wall -Wextra -rdynamic CMakeFiles/main.dir/main.c.o -o main 

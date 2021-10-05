@@ -1,0 +1,1 @@
+/usr/bin/clang  -std=c11 -Wall -Wextra -rdynamic -fsanitize=address,fuzzer CMakeFiles/utility_fuzzer_test.dir/utility_fuzzer_test.c.o -o utility_fuzzer_test 
