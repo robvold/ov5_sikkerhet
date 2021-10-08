@@ -1,4 +1,4 @@
 # ov5_sikkerhet
-Fuzzing      
+Fuzzing - eksempel      
       
 Takk til Sergio Martinez for hjelpen med CI/docker.    
