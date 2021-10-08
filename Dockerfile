@@ -10,7 +10,6 @@ RUN apt-get update && apt-get install -y \
  && rm -rf /var/lib/apt/lists/*
 
 COPY . /ov5_sikkerhet
-RUN mkdir /ov5_sikkerhet/build
 WORKDIR /ov5_sikkerhet/build
 RUN CC=clang cmake ..
 RUN make
