@@ -1,2 +1,4 @@
 # ov5_sikkerhet
-Fuzzing
+Fuzzing      
+      
+Takk til Sergio Martinez for hjelp.    
